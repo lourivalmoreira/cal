@@ -1,0 +1,1 @@
+Projeto Git Educacional. Cria uma calculadora simples em HTML e JS em pequenos passos. 
